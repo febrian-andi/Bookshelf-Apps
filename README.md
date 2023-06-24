@@ -1,7 +1,6 @@
-# Bookshelf-Apps-dicodingSubmission-
-Submission_Dicoding_Belajar Membuat Front-End Web untuk Pemula
+# Bookshelf-Apps
 
-Hasil : https://Bookshelf-Apps.123lord123.repl.co
+Result : https://Bookshelf-Apps.123lord123.repl.co
 
 ![image](https://user-images.githubusercontent.com/110412713/209469019-889e59ef-0ecd-4f42-a8bd-9527fff59850.png);
 
